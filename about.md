@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Undergraduate student studying Computer Engineering at the University of British Columbia.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Contact me!
+Personal/work email: [email@domain.com](mailto:email@domain.com)
+School email: [jessica.jia.he@alumni.ubc.ca](mailto:jessica.jia.he@alumni.ubc.ca)
