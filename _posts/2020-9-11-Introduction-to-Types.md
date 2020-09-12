@@ -4,13 +4,21 @@ tags: notes
 title: Introduction to Types (Reading)
 ---
 
-High quality software is *correct, comprehensible and changeable*.
+Finally got this website working! Plans for the future:
 
-**Type:** A way to describe a data item precisely
+Play around with CSS style
+Upload course notes markdown files here
+Add some devblog/projects
+Attach pdf file of resume somewhere
+P.S. Online schooling with COVID-19 has been quite the unique experience.
+
+- High quality software is *correct, comprehensible and changeable*.
+
+- **Type:** A way to describe a data item precisely
   1. **Set of values** that the item can take
   2. **Operations** that are permitted on the item
 
-**Primitive type:**  Form of data that the language directly supports, can be used to tell hardware about operations on the data
+- **Primitive type:**  Form of data that the language directly supports, can be used to tell hardware about operations on the data
   - e.g. `int` in C
 
 - `int` in Java: 4 byte of memory, range of [-2<sup>31</sup>, 2<sup>31</sup> - 1]
