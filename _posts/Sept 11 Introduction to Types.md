@@ -89,7 +89,7 @@ public class Main {
   - i.e. Only the methods in the `Date` class can directly access it
 
 
- - *Developer* develops a type
+- *Developer* develops a type
   - Provides a meaningful type with useful operations
   - Understands how the type is represented internally
 
