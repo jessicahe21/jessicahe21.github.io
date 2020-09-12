@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: notes
-title: Sept 11 Reading - Introduction to Types
+title: Introduction to Types (Reading)
 ---
 
 - High quality software is *correct, comprehensible and changeable*
@@ -10,7 +10,6 @@ title: Sept 11 Reading - Introduction to Types
   1. **Set of values** that the item can take
 
   2. **Operations** that are permitted on the item
-
 
 
 - **Primitive type:**  Form of data that the language directly supports, can be used to tell hardware about operations on the data
