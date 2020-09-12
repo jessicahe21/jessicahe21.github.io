@@ -1,14 +1,17 @@
 ---
 layout: post
 tags: notes
+excerpt_separator: <!--more-->
 title: Building Good Software Systems (Lecture)
 ---
 
-- What are the properties of *good* software?
+What are the properties of *good* software?
 
-  - 3C's: **Correct, Comprehensible, Changeable**
+ - 3C's: **Correct, Comprehensible, Changeable**
 
-- How do we build software... that works... and be convinced that it is correct?
+How do we build software... that works... and be convinced that it is correct?
+
+<!--more-->
 
 #### Critical Software
 - *Important Systems:* Operating systems, network stacks, medical devices, etc...
