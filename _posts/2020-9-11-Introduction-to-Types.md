@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: notes
-title: Sept 11 Reading: Introduction to Types
+title: Sept 11 Reading - Introduction to Types
 ---
 
 - High quality software is *correct, comprehensible and changeable*
