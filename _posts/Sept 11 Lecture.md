@@ -1,4 +1,8 @@
-## **Building *Good* Software Systems**
+---
+layout: post
+tags: notes
+title: Sept 11 Lecture: Building Good Software Systems
+---
 
 - What are the properties of *good* software?
 
