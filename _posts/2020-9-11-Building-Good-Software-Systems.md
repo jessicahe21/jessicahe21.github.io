@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: notes
-title: Sept 11 Lecture - Building Good Software Systems
+title: Building Good Software Systems (Lecture)
 ---
 
 - What are the properties of *good* software?
