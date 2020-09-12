@@ -80,13 +80,13 @@ public class Main {
 ### Realizing Types in Programming Languages
 - **User-defined types** allow us to better express intention
 
- - Rely on primitive types or other user-defined types to represent its valid values
+  - Rely on primitive types or other user-defined types to represent its valid values
 
- - Only defined operations for that type can interact with values of the type
+  - Only defined operations for that type can interact with values of the type
 
 - `private`: restrict access to internal representation of a type
 
- - i.e. Only the methods in the `Date` class can directly access it
+  - i.e. Only the methods in the `Date` class can directly access it
 
 
  - *Developer* develops a type
@@ -94,27 +94,27 @@ public class Main {
   - Understands how the type is represented internally
 
 - *User* uses the type to build more sophisticated things
- - Only interested in manipulating values of types with operations
- - Does not care how types are internally represented
+  - Only interested in manipulating values of types with operations
+  - Does not care how types are internally represented
 
 
 
 - **Defensive programming**: Developers should  prevent accidental or malicious modifications to internal representations of a type!
- - e.g. `private` as a modifier is such a mechanism
+  - e.g. `private` as a modifier is such a mechanism
 
 
- ### Type Safety
- - Why do types help us write better software?
+### Type Safety
+- Why do types help us write better software?
   - **Type safety**: a language's support for *detecting type errors*
 
 
 
 - **Static analysis**: analysis performed during compilation (or before program is executed)
- - Languages with *stronger static analyses = stronger correctness*
+  - Languages with *stronger static analyses = stronger correctness*
 
 
 - **Dynamic analysis**: runtime analysis
 
 - Java is strongly typed (very safe!): can detect problems from type mismatch
 
- - Supports user-defined type + Strong type checking
+  - Supports user-defined type + Strong type checking
