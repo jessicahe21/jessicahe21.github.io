@@ -16,4 +16,4 @@ I worked hard to catch up on the language on my own time as well as how to use t
 <br /> 
 The team's main focus of that year was a complete rewrite of our old code base. As a junior member, I implemented decision making and control evaluation functions in C++ that improved robots’ gameplay mechanisms. Thunderbots achieved first place in the 6v6 league of the 2019 Robocup competition, and I could not be prouder of everybody's hardwork!<br />
 <br />
-<img src="images/soccershot.PNG" alt="Diagram of when the soccer should go for shot"/>
+<img src="../images/soccershot.PNG" alt="Diagram of when the soccer should go for shot"/>
