@@ -17,6 +17,7 @@
 
 html {
   font-size: 100%;
+  font-family: $poppins;
 }
 
 body {
@@ -196,7 +197,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $work-sans;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -206,6 +207,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  font-family: $poppins;
 
   @include mobile {
     margin: 3px 0;
@@ -215,7 +217,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $work-sans;
   font-size: 18px;
 
   @include mobile {
