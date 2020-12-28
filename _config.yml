@@ -11,9 +11,16 @@ description: Computer Engineering Student
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/jessicahe21/jessicahe21.github.io/master/images/squished jasbee.png
 
-#
-# Flags below are optional
-#
+# Navigation tabs
+navigation:
+  - name: About
+    url: /about
+  - name: Projects
+    url: /projects
+  - name: Course Notes
+    url: /notes
+  - name: Resume
+    url: /Resume Sept 2020.md
 
 # Includes an icon in the footer for each username you enter
 footer-links:
