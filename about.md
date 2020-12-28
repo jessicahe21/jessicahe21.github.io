@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="images/portfolio.png" alt="Portrait">
 
 Hi! I am Jessica, a undergraduate student studying Computer Engineering at the University of British Columbia.<br />
 <br />
