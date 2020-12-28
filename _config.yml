@@ -17,7 +17,7 @@ navigation:
     url: /about
   - name: Projects
     url: /projects
-  - name: Course Notes
+  - name: Notes
     url: /notes
   - name: Resume
     url: /Resume Sept 2020.pdf
