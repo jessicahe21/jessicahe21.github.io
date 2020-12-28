@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img style='vertical-align:middle;' src='images/portfolio.png'>
+<img src="images/portfolio.png" alt="Portrait" style=vertical-align:middle;'>
+<img src="images/day 8.png" alt="Day 8">
+
 <div style='vertical-align:middle; display:inline;'>
 Hi! I am Jessica, a undergraduate student studying Computer Engineering at the University of British Columbia.<br />
 <br />
