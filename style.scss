@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Work+Sans&display=swap');
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -19,7 +21,7 @@ html {
 
 body {
   background: #ffd1d1;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $poppins;
   color: $darkGray;
 }
 
@@ -31,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $worksans;
   color: $darkerGray;
   font-weight: bold;
 
