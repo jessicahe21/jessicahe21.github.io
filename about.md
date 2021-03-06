@@ -18,6 +18,6 @@ permalink: /about/
 
 
 ### Contact me!
-Personal/work email: [jessicahe21@hotmail.com](mailto:jessicahe21@hotmail.com)
+Personal/work email: [jessicahe21@outlook.com](mailto:jessicahe21@outlook.com)
 
 School email: [jiahe24@student.ubc.ca](mailto:jessica.jia.he@alumni.ubc.ca)
