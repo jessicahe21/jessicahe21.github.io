@@ -2,7 +2,7 @@
 layout: post
 tags: notes
 excerpt_separator: <!--more-->
-title: Building Good Software Systems (Lecture)
+title: Building Good Software Systems
 ---
 
 What are the properties of *good* software?
