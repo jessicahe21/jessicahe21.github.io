@@ -2,7 +2,7 @@
 layout: post
 tags: notes
 excerpt_separator: <!--more-->
-title: Introduction to Types (Reading)
+title: Introduction to Types
 ---
 
 High quality software is *correct, comprehensible and changeable*.
