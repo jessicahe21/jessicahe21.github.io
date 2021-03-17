@@ -9,12 +9,12 @@ name: Jessica He
 description: Computer Engineering Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/jessicahe21/jessicahe21.github.io/master/images/squished jasbee.png
+avatar: https://raw.githubusercontent.com/jessicahe21/jessicahe21.github.io/master/images/cat2.png
 
 # Navigation tabs
 navigation:
   - name: About
-    url: /about
+    url: /
   - name: Projects
     url: /projects
   - name: Notes
